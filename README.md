@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech_CSE-(Data_Science)-bc13fe?style=for-the-badge&logo=googlescholar&logoColor=white" alt="B.Tech CSE" />
   <img src="https://img.shields.io/badge/Graduation_Year-2029-a020f0?style=for-the-badge&logo=serverless&logoColor=white" alt="Graduation Year: 2029" />
-  <img src="https://img.shields.io/badge/Location-Virar,_Maharashtra,_India-7b2cbf?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  
 </p>
 
 <p align="center">
