@@ -181,14 +181,6 @@ Ongoing Learning Repository
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diya-1720&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Activity Graph
 
 <p align="center">
