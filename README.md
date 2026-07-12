@@ -152,12 +152,7 @@ Ongoing Learning Repository
 
 <div align="center">
 
-| Recognition |
-| :---: |
-| B.Tech CSE (Data Science) Student |
-| Open Source Learner |
-| Web Development Enthusiast |
-| Continuous Learner |
+.....coming soon...
 
 </div>
 
@@ -172,11 +167,11 @@ Ongoing Learning Repository
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diya-1720&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bc13fe&icon_color=d500f9&text_color=e0aaff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diya-1720&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bc13fe&icon_color=d500f9&text_color=e0aaff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-1720&theme=tokyonight&hide_border=true&background=0d1117&ring=bc13fe&fire=bc13fe&currStreakLabel=bc13fe" alt="GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya-1720&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bc13fe&text_color=e0aaff" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya-1720&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bc13fe&text_color=e0aaff" width="60%" />
 </p>
 
 ---
