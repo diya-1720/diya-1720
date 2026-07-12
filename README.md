@@ -102,7 +102,7 @@
 ## 💼 Featured Projects
 
 <details>
-<summary><b>Project 1: JavaScript Learning Repository</b></summary>
+<summary><b>Project 1: Bat-Ball-Stump Game</b></summary>
 <br>
 
 **Description:**  
@@ -137,11 +137,7 @@ Ongoing Learning Repository
 ### Student Developer
 **St. John College of Engineering and Management**  
 *2025 – Present*
-
-- Learning software engineering fundamentals.
-- Building personal and academic projects.
-- Exploring web development and AI technologies.
-- Improving problem-solving skills.
+ *Currently a Codealpha Intern*
 
 **Skills tags:**  
 `HTML` `CSS` `JavaScript` `Python` `Java` `Git` `MySQL`
