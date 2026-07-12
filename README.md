@@ -29,30 +29,20 @@
 
 ## 👩‍💻 About Me
 
-**Name:** Diya Singh  
-**Current Status:** Second Year B.Tech Computer Science and Engineering (Data Science) Student  
-**College:** St. John College of Engineering and Management, Palghar  
+I enjoy building software that solves real-world problems while constantly exploring new technologies and ideas. I'm always looking for opportunities to learn, experiment, and create projects that challenge me.
 
-### 🔭 Interests
-- Software Engineering
-- Full Stack Development
-- Artificial Intelligence
-- Data Science
-- Open Source
+### 🚀 Currently Exploring
+- 🌐 Modern Web Development with **React**
+- 🧩 **Data Structures & Algorithms**
+- 🤖 **Artificial Intelligence** & **Machine Learning**
+- 🌍 Open Source and collaborative development
 
-### 🌱 What I'm doing
-- Currently learning React and modern web development.
-- Strengthening Data Structures and Algorithms.
-- Exploring AI and Machine Learning.
-- Building projects to improve practical skills.
+### 📖 Beyond the Code
+- 📄 Published the research paper **"AI-Enabled IoT-Based Monitoring for Early Detection of Stress and Depression"** in the **Counselling and Family Therapy Journal**.
+- 🏆 Enjoy participating in hackathons and transforming ideas into working prototypes.
+- 💡 Constantly building projects that help me learn something new with every commit.
 
-### 🤝 Open To
-- Internships
-- Open Source Contributions
-- Collaborative Projects
-- Learning Opportunities
-
----
+> *Still learning. Still building. Still wondering why the bug disappears the moment someone else looks at the screen.*
 
 ## 🛠️ Tech Stack
 
