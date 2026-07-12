@@ -137,7 +137,7 @@ Ongoing Learning Repository
 ### Student Developer
 **St. John College of Engineering and Management**  
 *2025 – Present*
- *Currently a Codealpha Intern*
+*Currently a Codealpha Intern*
 
 **Skills tags:**  
 `HTML` `CSS` `JavaScript` `Python` `Java` `Git` `MySQL`
