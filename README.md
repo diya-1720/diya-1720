@@ -167,8 +167,6 @@ A rule-based chatbot capable of responding to predefined user inputs using Pytho
 
 </details>
 
----
-
 </p>
 
 ---
