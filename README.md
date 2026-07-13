@@ -37,6 +37,12 @@
 </p>
 
 <p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=diya-1720&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=diya-1720&label=Profile+Views&color=bc13fe&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/diya-1720?label=Followers&style=for-the-badge&color=a020f0"/>
@@ -48,32 +54,27 @@
 
 # 👩‍💻 About Me
 
-I'm a **B.Tech Computer Science (Data Science)** student passionate about building software that solves real-world problems.
+**I'm a Computer Science (Data Science) undergraduate who enjoys solving real-world problems through software development.
 
-I enjoy learning new technologies, participating in hackathons, contributing to projects, and constantly improving my development skills.
-
-> *Building one project at a time and learning something new with every commit.*
+My interests include Full Stack Development, Artificial Intelligence, Machine Learning, and Data Structures & Algorithms. I enjoy building projects that help me learn something new with every commit.**
 
 ---
 
-# 🚀 Currently Learning
+| 🌱 Currently Learning | 🚀 Building |
+|----------------------|------------|
+| React.js | Portfolio Website |
+| Machine Learning | Python Projects |
+| DSA | Full Stack Applications |
 
-- 🌐 Full Stack Development
-- ⚛️ React.js
-- 🧩 Data Structures & Algorithms
-- 🤖 Artificial Intelligence
-- 📊 Machine Learning
-- ☁️ Git & GitHub Best Practices
-
----
-
-# 📄 Research Publication
+## 📄 Research Publication
 
 **AI-Enabled IoT-Based Monitoring for Early Detection of Stress and Depression**
 
 Published in the **Counselling and Family Therapy Journal**.
 
----
+**Domain**
+
+Artificial Intelligence • IoT • Mental Health Monitoring
 
 # 🛠️ Tech Stack
 
@@ -103,19 +104,16 @@ Published in the **Counselling and Family Therapy Journal**.
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## Python Development Intern | CodeAlpha
+### Python Development Intern
+**CodeAlpha**
 
-Worked on beginner-friendly Python projects including games and chatbots while strengthening programming fundamentals and problem-solving skills.
+Worked on Python projects focused on problem-solving, game development, and automation while strengthening programming fundamentals.
 
-**Skills**
+**Technologies**
 
-`Python`
-`Git`
-`GitHub`
-`Problem Solving`
-
+Python • Git • GitHub
 ---
 
 <p align="center">
@@ -201,7 +199,7 @@ A rule-based chatbot capable of responding to predefined user inputs using Pytho
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diya-1720&theme=tokyo-night&bg_color=0d1117&color=bc13fe&line=a020f0&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diya-1720&theme=github_dark&bg_color=0d1117&color=bc13fe&line=a020f0&point=ffffff&hide_border=true"/>
 
 </p>
 
@@ -209,9 +207,9 @@ A rule-based chatbot capable of responding to predefined user inputs using Pytho
 
 # 🏆 Achievements
 
-- 📄 Published a research paper on AI & IoT.
-- 💻 CodeAlpha Python Development Intern.
-- 🚀 Building projects consistently to improve software development skills.
+- 📄 Published Research Paper
+- 💻 CodeAlpha Python Development Intern
+- 🏆 Active Hackathon Participant
 
 ---
 
@@ -247,4 +245,4 @@ Open To:
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bc13fe&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e5e7eb&height=120&section=footer"/>
