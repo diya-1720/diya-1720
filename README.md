@@ -1,12 +1,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e5e7eb&height=250&section=header&text=𝓓𝓲𝔂𝓪%20𝓢𝓲𝓷𝓰𝓱&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=111827"/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=bc13fe&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(Data+Science)+Student;Learning+ full-stack;AI+%7C+Machine+Learning+Enthusiast;Always+Learning+Something+New;Always+Curious😁" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(Data+Science);Aspiring+Software+Engineer;Learning+Full+Stack+Development;AI+%7C+Machine+Learning+Enthusiast;Building+Projects+Every+Day"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-Data_Science-bc13fe?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎯_Graduation-2029-a020f0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/B.Tech-CSE_(Data_Science)-3B82F6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Class_of-2029-2563EB?style=for-the-badge"/>
+
 </p>
 
 <p align="center">
@@ -115,17 +118,17 @@ Worked on beginner-friendly Python projects including games and chatbots while s
 
 ---
 
-## 🎯 Interests
+<p align="center">
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Full Stack Development
-- Open Source
-- UI Design
-- Data Structures & Algorithms
+<img src="https://img.shields.io/badge/AI-3B82F6?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Science-1D4ED8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-60A5FA?style=for-the-badge"/>
+
+</p>
 
 # 💻 Featured Projects
 
