@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bc13fe&height=250&section=header&text=𝓓𝓲𝔂𝓪%20𝓢𝓲𝓷𝓰𝓱&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e5e7eb&height=250&section=header&text=𝓓𝓲𝔂𝓪%20𝓢𝓲𝓷𝓰𝓱&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=111827"/>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=bc13fe&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(Data+Science)+Student;Aspiring+Software+Engineer;Learning+Full+Stack+Development;AI+%7C+Machine+Learning+Enthusiast;Always+Learning+Something+New" />
 </p>
