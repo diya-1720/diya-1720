@@ -36,11 +36,7 @@
 
 </p>
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=diya-1720&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=diya-1720&label=Profile+Views&color=bc13fe&style=for-the-badge"/>
@@ -172,14 +168,6 @@ A rule-based chatbot capable of responding to predefined user inputs using Pytho
 </details>
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diya-1720&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya-1720&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
