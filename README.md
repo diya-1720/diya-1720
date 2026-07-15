@@ -49,9 +49,9 @@
 
 # 👩‍💻 About Me
 
-**I'm a Computer Science (Data Science) undergraduate who enjoys solving real-world problems through software development.
+**I'm a Computer Science (Data Science) undergraduate who enjoys solving real-world problems through software development.**
 
-My interests include Full Stack Development, Artificial Intelligence, Machine Learning, and Data Structures & Algorithms. I enjoy building projects that help me learn something new with every commit.**
+**My interests include Full Stack Development, Artificial Intelligence, Machine Learning, and Data Structures & Algorithms. I enjoy building projects that help me learn something new with every commit.**
 
 ---
 
