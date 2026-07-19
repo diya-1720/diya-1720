@@ -12,34 +12,42 @@
     <img src="https://img.shields.io/badge/Class_of-2029-7b2cbf?style=for-the-badge&logo=minutemailer&logoColor=white"/>
   </p>
 
-  <!-- Social Links: Line 1 -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/diya-singh-897a52351"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/diya-1720"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://leetcode.com/u/diya-singh/"><img src="https://img.shields.io/badge/LeetCode-06B6D4?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  </p>
+<!-- ✨ Connect With Me -->
+<h3 align="center">🌐 Connect With Me</h3>
 
-  <!-- Social Links: Line 2 -->
-  <p align="center">
-    <a href="mailto:singhdiya1720@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/_diyaaa_71"><img src="https://img.shields.io/badge/Instagram-A855F7?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/diya-singh-897a52351">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/diya-1720">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/diya-singh/">
+    <img src="https://img.shields.io/badge/LeetCode-06B6D4?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-  <!-- Profile Views: Line 3 -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=diya-1720&label=Profile+Views&color=6B7280&style=flat" alt="Profile Views" />
-  </p>
+<p align="center">
+  <a href="mailto:singhdiya1720@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_diyaaa_71">
+    <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-  <!-- Followers & Stars -->
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/diya-1720?label=Followers&style=for-the-badge&color=a020f0" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/stars/diya-1720?label=Stars&style=for-the-badge&color=7b2cbf" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diya-1720&label=PROFILE%20VIEWS&color=6B7280&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/diya-1720?label=Followers&style=for-the-badge&color=7C3AED"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/diya-1720?label=Stars&style=for-the-badge&color=06B6D4"/>
+</p>
 
 <hr />
 
