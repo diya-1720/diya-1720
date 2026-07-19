@@ -14,23 +14,23 @@
 
   <!-- Social Links: Line 1 -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/diya-singh-897a52351"><img src="https://img.shields.io/badge/LinkedIn-a020f0?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/diya-singh-897a52351"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/diya-1720"><img src="https://img.shields.io/badge/GitHub-a020f0?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/diya-1720"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://leetcode.com/u/diya-singh/"><img src="https://img.shields.io/badge/LeetCode-a020f0?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+    <a href="https://leetcode.com/u/diya-singh/"><img src="https://img.shields.io/badge/LeetCode-06B6D4?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   </p>
 
   <!-- Social Links: Line 2 -->
   <p align="center">
-    <a href="mailto:singhdiya1720@gmail.com"><img src="https://img.shields.io/badge/Email-a020f0?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:singhdiya1720@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/_diyaaa_71"><img src="https://img.shields.io/badge/Instagram-a020f0?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.instagram.com/_diyaaa_71"><img src="https://img.shields.io/badge/Instagram-A855F7?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 
   <!-- Profile Views: Line 3 -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=diya-1720&label=Profile+Views&color=a020f0&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=diya-1720&label=Profile+Views&color=6B7280&style=flat" alt="Profile Views" />
   </p>
 
   <!-- Followers & Stars -->
@@ -145,3 +145,4 @@ Worked on Python projects focused on problem-solving, game development, and auto
 - 🏆 **Published Research Paper** on AI-Enabled IoT Monitoring
 - 💻 Completed **Python Development Internship** at CodeAlpha
 - 🚀 Active Hackathon Participant
+
