@@ -5,7 +5,7 @@
   <br />
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1200&color=a020f0&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(Data+Science);Learning+Full+Stack+Development;AI+%7C+Machine+Learning+Enthusiast;Building+Projects+Every+Day;Learning DSA;Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1200&color=a020f0&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(Data+Science);Learning+Full+Stack+Development;AI+%7C+Machine+Learning+Enthusiast;Building+Projects+Every+Day;Learning+DSA;Aspiring+Software+Engineer" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/B.Tech-CSE_(Data_Science)-a020f0?style=for-the-badge&logo=codeforces&logoColor=white"/>
