@@ -61,7 +61,7 @@ My interests span across **Full Stack Development, Artificial Intelligence, Mach
 |:---------------------|:------------|
 | React.js | Portfolio Website |
 | Machine Learning | Python Projects |
-| Data Structures & Algorithms | Full Stack Applications |
+| Data Structures & Algorithms | Full Stack Development | Git & GitHub | 
 
 <br />
 
