@@ -24,13 +24,13 @@
   
   <h3> Meeeee</h3>
 
-    <a href="mailto:singhdiya1720@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-singhdiya1720%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/diya-singh-897a52351" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-diya--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+ <a href="mailto:singhdiya1720@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-singhdiya1720%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/diya-singh-897a52351" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-diya--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   </p>
 
   <p align="center">
