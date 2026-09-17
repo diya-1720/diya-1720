@@ -21,14 +21,9 @@
 
   <br/>
 
-  <!-- 📡 Establish Comms Link (Connect) -->
-  <h3>📡 Meeeee</h3>
+  
+  <h3> Meeeee</h3>
 
-  <p align="center">
-    <a href="https://dr-doc-rouge.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-dr--doc--rouge.vercel.app-0098FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-    &nbsp;
     <a href="mailto:singhdiya1720@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-singhdiya1720%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
