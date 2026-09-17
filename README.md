@@ -22,7 +22,7 @@
   <br/>
 
   <!-- 📡 Establish Comms Link (Connect) -->
-  <h3>📡 Establish Comms Link (Connect) 👽</h3>
+  <h3>📡 Meeeee</h3>
 
   <p align="center">
     <a href="https://dr-doc-rouge.vercel.app" target="_blank">
