@@ -1,236 +1,177 @@
 <div align="center">
-  <!-- Aesthetic Waving Header with Purple-Cyan Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,06B6D4&height=220&section=header&text=✨%20Diya%20Singh%20✨&fontSize=65&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header" width="100%" />
 
-  <!-- Dynamic Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(Data+Science)+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer+%7C+UI%2FUX+Explorer;Published+Researcher+in+Healthcare+IoT;Problem+Solver+%7C+DSA+Grinder;Building+Impactful+Projects+Every+Day" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Diya%20Singh&fontSize=65&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Diya Singh" width="100%" />
 
-  <!-- Academic & Focus Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/DEGREE-B.TECH_CSE_(DATA_SCIENCE)-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Degree" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/CLASS_OF-2029-6366F1?style=for-the-badge&logo=sparkles&logoColor=white" alt="Class of 2029" />
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/FOCUS-AI_%7C_MACHINE_LEARNING-06B6D4?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/DOMAIN-FULL_STACK_WEB-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Domain" />
-  </p>
-
-  <br/>
-
-  
-  <h3> Meeeee</h3>
-
- <a href="mailto:singhdiya1720@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-singhdiya1720%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1200&color=6B6FD4&center=true&vCenter=true&width=850&lines=Computer+Science+%7C+Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Published+Researcher+in+HealthTech" alt="Typing SVG" />
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/diya-singh-897a52351" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-diya--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-  </p>
 
-  <p align="center">
-    <a href="https://leetcode.com/u/diya-singh/" target="_blank">
-      <img src="https://img.shields.io/badge/LEETCODE-diya--singh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/diya-1720" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-diya--1720-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/_diyaaa_71" target="_blank">
-      <img src="https://img.shields.io/badge/INSTAGRAM-__diyaaa__71-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
+[![Email](https://img.shields.io/badge/Email-singhdiyai1720%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhdiyai1720@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diya_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-singh-897a52351)
+[![GitHub](https://img.shields.io/badge/GitHub-diya--1720-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diya-1720)
+[![Instagram](https://img.shields.io/badge/Instagram-_diyaaa__71-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_diyaaa_71)
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=diya-1720&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Views" />
-    &nbsp;
-    <img src="https://img.shields.io/github/followers/diya-1720?label=Followers&style=for-the-badge&color=06B6D4" alt="Followers" />
-    &nbsp;
-    <img src="https://img.shields.io/github/stars/diya-1720?label=Stars&style=for-the-badge&color=6366F1" alt="Stars" />
-  </p>
 </div>
 
-<br/>
+---
 
-## ⚡ About Me
+## About Me
 
-> *"Transforming raw data into intelligent insights, and lines of code into intuitive software."* 💡💻
+> *Turning curiosity into intelligent products, one line of code at a time.*
 
-Hey there, I’m **Diya Singh**! 👋 I'm an undergraduate in Computer Science (Data Science) with a deep curiosity for **Artificial Intelligence**, **Machine Learning**, and modern **Full-Stack Engineering**. 
+I’m **Diya Singh**, a Computer Science undergraduate specializing in **Data Science**. I enjoy working at the intersection of:
 
-I enjoy bridging the gap between theoretical models and real-world software—whether that’s integrating multimodal vision AI into pre-submission verification tools, analyzing physiological health patterns, or building performant, pixel-perfect user interfaces.
+- Artificial Intelligence and Machine Learning
+- Full-stack software development
+- HealthTech and IoT
+- Data analysis and visualization
+- Algorithms, problem solving, and open source
 
-<br/>
+My goal is to build technology that is thoughtful, practical, and meaningful.
 
-### 🎯 Core Focus Areas
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Data Science & AI</h3>
-      <ul>
-        <li><b>Predictive Modeling:</b> Exploring Machine Learning architectures, statistical analysis, and data pipelines with Python.</li>
-        <li><b>Generative & Vision AI:</b> Building end-to-end applications leveraging Google Gemini Vision AI for automated document analysis.</li>
-        <li><b>HealthTech Research:</b> Investigating AI + IoT physiological monitoring systems for mental wellness.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Software & Engineering</h3>
-      <ul>
-        <li><b>Full-Stack Development:</b> Developing clean, responsive web applications using React, TypeScript, and modern CSS/Tailwind.</li>
-        <li><b>DSA & Problem Solving:</b> Actively solving algorithmic challenges on LeetCode to build robust, efficient solutions.</li>
-        <li><b>Modular Architecture:</b> Focused on writing clean, scalable code with structured API integrations.</li>
-      </ul>
-    </td>
-  </tr>
+## 🔭 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Dr. Doc — AI Document Verification
+
+A full-stack pre-submission workflow that validates documents, cross-checks PAN versus Aadhaar details, and identifies potential corrections using Gemini Vision AI.
+
+**Stack:** React · TypeScript · Gemini AI · Tailwind CSS · Node.js
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white)](https://dr-doc-rouge.vercel.app)
+[![View Repo](https://img.shields.io/badge/View_Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/diya-1720/dr.Doc)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Stock Portfolio Tracker
+
+A Python application for calculating asset allocation, investment returns, and portfolio performance.
+
+**Stack:** Python · Pandas · NumPy · CLI
+
+[![View Repo](https://img.shields.io/badge/View_Repo-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/diya-1720/codealpha_stockportfolio)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏏 Bat Ball Stump Game
+
+A responsive browser arcade game featuring game-loop physics, dynamic interface states, and score tracking.
+
+**Stack:** HTML5 · CSS3 · JavaScript
+
+[![View Repo](https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/diya-1720/Bat-Ball-Stump-game)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Smart Python Chatbot
+
+A rule-based conversational bot that processes user queries and generates context-aware responses.
+
+**Stack:** Python · NLP Basics · Regex
+
+[![View Repo](https://img.shields.io/badge/View_Repo-3B82F6?style=flat-square&logo=github&logoColor=white)](https://github.com/diya-1720/codealpha_ChatBot)
+
+</td>
+</tr>
 </table>
 
-<br/>
+---
 
-## 🛠️ Tech Toolbox
+## 🧰 Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts&theme=dark" alt="Languages" />
+### Languages
 
-<br/><br/>
+[![Languages](https://skillicons.dev/icons?i=py,cpp,c,java,js,ts&theme=dark)](https://skillicons.dev)
 
-### 🧠 Data Science, AI & Databases
-<img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" alt="Data Science" />
-<br/>
-<img src="https://img.shields.io/badge/Gemini_Vision_AI-7C3AED?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Structures-06B6D4?style=flat-square&logo=codeforces&logoColor=white"/>
+### Data Science and AI
 
-<br/><br/>
+[![Data Science](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Gemini](https://img.shields.io/badge/Gemini_Vision_AI-7C3AED?style=for-the-badge&logo=google&logoColor=white)]()
 
-### 🎨 Frontend & Design
-<img src="https://skillicons.dev/icons?i=react,ts,html,css,js,tailwind,vite,figma&theme=dark" alt="Frontend" />
+### Web Development
 
-<br/><br/>
+[![Web](https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,vite,nodejs&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Developer Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nodejs,express,linux&theme=dark" alt="Tools" />
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<br/>
+---
 
-## 💼 Experience & Research Spotlight
+## Research and Experience
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Published Research Paper</h3>
-      <p><b>AI-Enabled IoT-Based Monitoring for Early Detection of Stress & Depression</b></p>
-      <p><i>Published in Counselling and Family Therapy Journal</i></p>
-      <p>Explored sensor-based physiological monitoring and predictive machine learning models to detect early onset stress indicators in real-time, bridging computer science with mental health diagnostics.</p>
-      <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
-      <img src="https://img.shields.io/badge/IoT-06B6D4?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Mental_Health-6366F1?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Healthcare_Tech-10B981?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 Python Development Intern</h3>
-      <p><b>CodeAlpha</b></p>
-      <p><i>Software Engineering & Automation</i></p>
-      <p>Engineered core Python utilities, developed interactive CLI applications, automated data processing workflows, and strengthened object-oriented software patterns.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Automation-06B6D4?style=flat-square"/>
-      <img src="https://img.shields.io/badge/OOP-7C3AED?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+### Published Research
 
-<br/>
+**AI-Enabled IoT-Based Monitoring for Early Detection of Stress & Depression**
 
-## 🚀 Featured Projects
+Published in the *Counselling and Family Therapy Journal*.
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩺 Dr. Doc — AI Document Verification</h3>
-      <p>A full-stack pre-submission workstation that audits, verifies, cross-checks (PAN vs Aadhaar), and auto-fixes documents before portal submissions using Gemini Vision AI.</p>
-      <p><b>Tech:</b> <code>React 18</code> <code>TypeScript</code> <code>Gemini AI</code> <code>Tailwind</code> <code>Node.js</code></p>
-      <a href="https://dr-doc-rouge.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/diya-1720/dr.Doc" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-7C3AED?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Stock Portfolio Tracker</h3>
-      <p>A console application engineered to calculate real-time asset allocations, investment returns, and portfolio performance metrics.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>Data Analysis</code> <code>CLI</code></p>
-      <a href="https://github.com/diya-1720/codealpha_stockportfolio" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-06B6D4?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🕹️ Bat Ball Stump Web Game</h3>
-      <p>A responsive, interactive browser arcade game implementing game-loop physics, dynamic UI states, and score tracking.</p>
-      <p><b>Tech:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript (ES6)</code></p>
-      <a href="https://github.com/diya-1720/Bat-Ball-Stamp-game" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Smart Python Chatbot</h3>
-      <p>An interactive rule-based conversational bot capable of processing user queries and returning contextual responses using pattern matching.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>NLP Basics</code> <code>Regex</code></p>
-      <a href="https://github.com/diya-1720/codealpha_ChatBot" target="_blank">
-        <img src="https://img.shields.io/badge/View_Repo-3B82F6?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+I explored sensor-based physiological monitoring and predictive machine learning models for identifying early indicators of stress in real time.
 
-<br/>
+### Python Development Intern
 
-## 📊 Activity & GitHub Metrics
+**CodeAlpha**
+
+Worked on Python utilities, interactive CLI applications, workflow automation, and object-oriented software patterns.
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <!-- GitHub Streak Stats (Themed in Sleek Violet & Cyan) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-1720&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4&sideNums=A855F7&currStreakNum=FFFFFF" alt="GitHub Streak" />
 
-  <br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-1720&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" alt="GitHub streak" />
 
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=diya-1720&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=E2E8F0" alt="GitHub Stats" />
+<br/><br/>
 
-  <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=diya-1720&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED&text_color=E2E8F0" alt="GitHub stats" />
 
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diya-1720&theme=github_dark&bg_color=0D1117&color=06B6D4&line=7C3AED&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="95%" />
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diya-1720&theme=github-dark&bg_color=0D1117&color=06B6D4&line=7C3AED&point=FFFFFF&hide_border=true" alt="Contribution graph" width="95%" />
 
 </div>
 
-<br/>
+---
 
-## 🎯 Current Missions & Milestones
+## Current Goals
+
+- Seeking software engineering and data science opportunities
+- Strengthening PyTorch and deep learning foundations
+- Building scalable AI applications
+- Participating in AI, open-source, and Web3 hackathons
+- Collaborating on data science, AI/ML, and open-source projects
+
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=19&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Looking+for+Summer+Internships;Gearing+up+for+AI+Hackathons+%26+Open+Source;Deep+Diving+into+PyTorch+%26+Deep+Learning;Building+Intelligent+AI+Products" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Looking+for+summer+internships;Learning+PyTorch+and+deep+learning;Open+to+AI+and+open-source+collaboration" alt="Current goals" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" width="100%" alt="Footer" />
+
+<i>Turning curiosity into innovation, one line of code at a time.</i>
+
 </div>
-
-- 🚀 **Industry Opportunities:** Actively seeking Software Engineering & Data Science internships.
-- 🧠 **Technical Mastery:** Deep diving into PyTorch, Deep Learning architectures, and scalable Next.js systems.
-- 🏆 **Hackathons:** Actively forming and joining teams for competitive AI and Web3 hackathons.
-- 🤝 **Collaboration:** Open to collaborating on Data Science, AI/ML, and open-source projects!
-
 <br/>
 
 <div align="center">
