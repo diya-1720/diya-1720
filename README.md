@@ -172,13 +172,3 @@ Worked on Python utilities, interactive CLI applications, workflow automation, a
 <i>Turning curiosity into innovation, one line of code at a time.</i>
 
 </div>
-<br/>
-
-<div align="center">
-  <!-- Waving Footer with Matching Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,06B6D4&height=120&section=footer" width="100%" />
-  
-  <p align="center">
-    <i>"Turning curiosity into innovation, one line of code at a time." — Crafted with 💜 by Diya</i>
-  </p>
-</div>
